@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Project_3\\Monitor\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Project3\\Monitor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52B09851-4AF1-4877-B63E-B0EFC52DB328}|Monitor.vcxproj|C:\\Users\\HP\\Downloads\\Project_3\\Monitor\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{52B09851-4AF1-4877-B63E-B0EFC52DB328}|Monitor.vcxproj|C:\\Users\\HP\\Downloads\\Project3\\Monitor\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52B09851-4AF1-4877-B63E-B0EFC52DB328}|Monitor.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "dllmain.cpp",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Project_3\\Monitor\\dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Project3\\Monitor\\dllmain.cpp",
               "RelativeDocumentMoniker": "dllmain.cpp",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Project_3\\Monitor\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Project3\\Monitor\\dllmain.cpp",
               "RelativeToolTip": "dllmain.cpp",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
